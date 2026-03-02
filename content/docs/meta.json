@@ -1,0 +1,11 @@
+{
+    "0-course-setup": "Course Setup",
+    "1-Intro": "I. Introduction to AI",
+    "2-Symbolic": "II. Symbolic AI",
+    "3-NeuralNetworks": "III. Introduction to Neural Networks",
+    "4-ComputerVision": "IV. Computer Vision",
+    "5-NLP": "V. Natural Language Processing",
+    "6-Other": "VI. Other AI Techniques",
+    "7-Ethics": "VII. AI Ethics",
+    "X-Extras": "IX. Extras"
+}
