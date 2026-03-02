@@ -21,13 +21,9 @@ export function getPageImage(page: InferPageType<typeof source>) {
 }
 
 export async function getLLMText(page: InferPageType<typeof source>) {
-export async function getLLMText(page: InferPageType<typeof source>) {
   const content = (page.data.structuredData?.contents ?? [])
     .map((c) => c.content)
     .join('\n\n');
-
-  return `# ${page.data.title}\n\n${page.data.description ?? ''}\n\n${content}`;
-}
 
   return `# ${page.data.title}\n\n${page.data.description}\n\n${content}`;
 }
