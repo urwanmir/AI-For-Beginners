@@ -24,6 +24,13 @@ const { provider } = defineI18nUI(i18n, {
   },
 });
 
+/**
+ * Root layout component that sets the document language, provides the i18n UI context, and wraps page content with global structure and footer.
+ *
+ * @param params - An object (or a promise resolving to an object) containing `lang`, the language code used for the `html` element and to initialize the i18n provider.
+ * @param children - The page content to render inside the layout.
+ * @returns The top-level HTML structure: an `<html>` element with `lang` and font class, a `<body>` containing the `RootProvider` initialized for the specified language, the provided `children`, and a persistent footer.
+ */
 export default async function Layout({
   params,
   children,
