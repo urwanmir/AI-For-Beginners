@@ -1,0 +1,115 @@
+[
+  {
+    "title": "AI Beginners ke liye: Quizzes",
+    "complete": "Mubarak ho, aapne quiz poori kar li!",
+    "error": "Maaf kijiyega, phir se koshish karein",
+    "quizzes": [
+      {
+        "id": 101,
+        "title": "AI ka Intro: Pre Quiz",
+        "quiz": [
+          {
+            "questionText": "19th century ke ek mashhoor proto-computer engineer kaun the?",
+            "answerOptions": [
+              {
+                "answerText": "Charles Barkley",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Charles Babbage",
+                "isCorrect": true
+              },
+              {
+                "answerText": "Charles Darwin",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "Weak AI ek aisa system hai jo bohot saare tasks solve karne ke liye banaya gaya hai",
+            "answerOptions": [
+              {
+                "answerText": "Sahi (True)",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Galat (False)",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionText": "Chat bots sach mein intelligent systems ka ek example hain",
+            "answerOptions": [
+              {
+                "answerText": "Galat, wo aam taur par rules ke hisab se banaye jate hain.",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Sahi, unhe aam taur par 'intelligent' mana jata hai",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Galat, lekin jaise-jaise wo sophisticated ho rahe hain, wo Turing tests pass karne ke layak hote ja rahe hain.",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 201,
+        "title": "AI ka Intro: Post-Quiz",
+        "quiz": [
+          {
+            "questionText": "AI ka top-down approach reasoning ka ek model hai jise kehte hain",
+            "answerOptions": [
+              {
+                "answerText": "strategic reasoning",
+                "isCorrect": false
+              },
+              {
+                "answerText": "symbolic reasoning",
+                "isCorrect": true
+              },
+              {
+                "answerText": "synergistic reasoning",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "AI ka bottom-up approach neural networks par based hai",
+            "answerOptions": [
+              {
+                "answerText": "Sahi (True)",
+                "isCorrect": true
+              },
+              {
+                "answerText": "Galat (False)",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "AI Winter is daur (era) mein hua tha",
+            "answerOptions": [
+              {
+                "answerText": "1950s",
+                "isCorrect": false
+              },
+              {
+                "answerText": "1960s",
+                "isCorrect": false
+              },
+              {
+                "answerText": "1970s",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

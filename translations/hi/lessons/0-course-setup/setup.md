@@ -1,49 +1,46 @@
-# इस पाठ्यक्रम के साथ शुरुआत करें
+# Is Course ke saath Shuruat karein
 
-## क्या आप एक छात्र हैं?
+## Kya aap ek student hain?
 
-निम्नलिखित संसाधनों के साथ शुरुआत करें:
+In resources ke saath shuruat karein:
 
-* [स्टूडेंट हब पेज](https://docs.microsoft.com/learn/student-hub?WT.mc_id=academic-77998-cacaste) इस पेज पर आपको शुरुआती संसाधन, स्टूडेंट पैक्स, और यहां तक कि मुफ्त प्रमाणपत्र वाउचर प्राप्त करने के तरीके मिलेंगे। यह एक ऐसा पेज है जिसे आप बुकमार्क करना चाहेंगे और समय-समय पर जांचते रहेंगे क्योंकि हम कम से कम मासिक रूप से सामग्री बदलते रहते हैं।
-* [Microsoft Student Learn Ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-77998-cacaste) छात्र एंबेसडर्स के वैश्विक समुदाय में शामिल हों, यह माइक्रोसॉफ्ट में आपका प्रवेश द्वार हो सकता है।
+* [Student Hub Page](https://docs.microsoft.com/learn/student-hub?WT.mc_id=academic-77998-cacaste) Is page par aapko shuruati resources, student packs, aur yahan tak ki free certificate vouchers pane ke tareeqe milenge. Ye ek aisa page hai jise aap bookmark karna chahenge aur waqt-waqt par check karte rahenge kyunki hum kam se kam har mahine iski content badalte rehte hain.
+* [Microsoft Student Learn Ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-77998-cacaste) Student Ambassadors ki global community mein shamil hoyein, ye Microsoft mein aapka entry point ho sakta hai.
 
-**छात्रों**, इस पाठ्यक्रम का उपयोग करने के कुछ तरीके हैं। सबसे पहले, आप सीधे GitHub पर टेक्स्ट पढ़ सकते हैं और कोड देख सकते हैं। यदि आप किसी भी नोटबुक में कोड चलाना चाहते हैं - [हमारे निर्देश पढ़ें](./how-to-run.md), और इसे कैसे करना है इस पर अधिक सलाह [इस ब्लॉग पोस्ट में](https://soshnikov.com/education/how-to-execute-notebooks-from-github/) पाएं।
+**Students**, is course ko use karne ke kuch tareeqe hain. Sabse pehle, aap seedha GitHub par text padh sakte hain aur code dekh sakte hain. Agar aap kisi bhi notebook mein code chalana chahte hain - toh [hamari instructions padhein](./how-to-run.md), aur ise kaise karna hai is par zyada salaah [is blog post mein](https://soshnikov.com/education/how-to-execute-notebooks-from-github/) paayein.
 
-> **Note**: [इस पाठ्यक्रम में कोड चलाने के निर्देश](./how-to-run.md)
+> **Note**: [Is course mein code chalane ki instructions](./how-to-run.md)
 
-## स्व-अध्ययन
+## Self-study
 
-हालांकि, यदि आप इस पाठ्यक्रम को स्व-अध्ययन परियोजना के रूप में लेना चाहते हैं, तो हम सुझाव देते हैं कि आप पूरे रिपॉजिटरी को अपने GitHub खाते में फोर्क करें और अभ्यास को अपने आप या समूह के साथ पूरा करें:
+Halaki, agar aap is course ko self-study project ke taur par lena chahte hain, toh hum suggest karte hain ki aap poori repository ko apne GitHub account mein fork karein aur exercises ko apne aap ya kisi group ke saath pura karein:
 
-* प्री-लेक्चर क्विज़ से शुरुआत करें।
-* लेक्चर के परिचयात्मक टेक्स्ट को पढ़ें।
-* यदि लेक्चर में अतिरिक्त नोटबुक हैं, तो उन्हें पढ़ें और कोड को चलाएं। यदि TensorFlow और PyTorch दोनों नोटबुक प्रदान किए गए हैं, तो आप उनमें से किसी एक पर ध्यान केंद्रित कर सकते हैं - अपना पसंदीदा फ्रेमवर्क चुनें।
-* नोटबुक में अक्सर कुछ चुनौतियां होती हैं जो आपको कोड को थोड़ा बदलने और प्रयोग करने की आवश्यकता होती हैं।
-* पोस्ट-लेक्चर क्विज़ लें।
-* यदि मॉड्यूल के साथ कोई लैब जुड़ी है - असाइनमेंट पूरा करें।
-* [डिस्कशन बोर्ड](https://github.com/microsoft/AI-For-Beginners/discussions) पर जाएं और "लाउड सीखें"।
+* Pre-lecture quiz se shuruat karein.
+* Lecture ke intro text ko padhein.
+* Agar lecture mein extra notebooks hain, toh unhe padhein aur code ko chalayein. Agar TensorFlow aur PyTorch dono notebooks di gayi hain, toh aap unmein se kisi ek par dhyan de sakte hain - apna pasandida framework chunein.
+* Notebooks mein aksar kuch challenges hote hain jahan aapko code thoda badalna aur experiment karna hota hai.
+* Post-lecture quiz lein.
+* Agar module ke saath koi lab judi hai - toh assignment pura karein.
+* [Discussion board](https://github.com/microsoft/AI-For-Beginners/discussions) par jayein aur sabke saath milkar seekhein.
 
-> आगे की पढ़ाई के लिए, हम इन [Microsoft Learn](https://docs.microsoft.com/en-us/users/dmitrysoshnikov-9132/collections/31zgizg2p418yo/?WT.mc_id=academic-77998-cacaste) मॉड्यूल और लर्निंग पाथ्स का अनुसरण करने की सिफारिश करते हैं।
+> Aage ki padhai ke liye, hum in [Microsoft Learn](https://docs.microsoft.com/en-us/users/dmitrysoshnikov-9132/collections/31zgizg2p418yo/?WT.mc_id=academic-77998-cacaste) modules aur learning paths ko follow karne ki salaah dete hain.
 
-**शिक्षकों**, हमने इस पाठ्यक्रम का उपयोग करने के लिए [कुछ सुझाव शामिल किए हैं](./for-teachers.md)।
-
----
-
-## शिक्षाशास्त्र
-
-हमने इस पाठ्यक्रम को बनाते समय दो शिक्षाशास्त्रीय सिद्धांत चुने हैं: यह सुनिश्चित करना कि यह **प्रोजेक्ट-आधारित** है और इसमें **बार-बार क्विज़** शामिल हैं।
-
-सुनिश्चित करके कि सामग्री प्रोजेक्ट्स के साथ मेल खाती है, प्रक्रिया छात्रों के लिए अधिक आकर्षक बन जाती है और अवधारणाओं की समझ को बढ़ाया जाता है। इसके अलावा, कक्षा से पहले एक कम-स्तरीय क्विज़ छात्र को विषय सीखने के इरादे की ओर ले जाता है, जबकि कक्षा के बाद दूसरा क्विज़ आगे की समझ सुनिश्चित करता है। यह पाठ्यक्रम लचीला और मजेदार बनाया गया है और इसे पूरे या आंशिक रूप से लिया जा सकता है। प्रोजेक्ट्स छोटे से शुरू होते हैं और 12-सप्ताह के चक्र के अंत तक धीरे-धीरे जटिल हो जाते हैं।
-
-> **क्विज़ के बारे में एक नोट**: सभी क्विज़ [इस ऐप](https://red-field-0a6ddfd03.1.azurestaticapps.net/) में शामिल हैं, जिसमें कुल 50 क्विज़ हैं, प्रत्येक में तीन प्रश्न। वे पाठों के भीतर से लिंक किए गए हैं लेकिन क्विज़ ऐप को स्थानीय रूप से चलाया जा सकता है; `etc/quiz-app` फ़ोल्डर में निर्देशों का पालन करें।
-
-## ऑफलाइन एक्सेस
-
-आप इस दस्तावेज़ को ऑफलाइन [Docsify](https://docsify.js.org/#/) का उपयोग करके चला सकते हैं। इस रिपॉजिटरी को फोर्क करें, [Docsify इंस्टॉल करें](https://docsify.js.org/#/quickstart) अपने स्थानीय मशीन पर, और फिर इस रिपॉजिटरी के रूट फ़ोल्डर में `docsify serve` टाइप करें। वेबसाइट आपके लोकलहोस्ट पर पोर्ट 3000 पर सर्व की जाएगी: `localhost:3000`। पाठ्यक्रम का एक पीडीएफ [इस लिंक पर उपलब्ध है](../../../../../../../../../etc/pdf/readme.pdf)।
+**Teachers**, humne is course ko use karne ke liye [kuch suggestions shamil kiye hain](./for-teachers.md).
 
 ---
 
-<!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**अस्वीकरण**:  
-यह दस्तावेज़ AI अनुवाद सेवा [Co-op Translator](https://github.com/Azure/co-op-translator) का उपयोग करके अनुवादित किया गया है। जबकि हम सटीकता के लिए प्रयास करते हैं, कृपया ध्यान दें कि स्वचालित अनुवाद में त्रुटियां या अशुद्धियां हो सकती हैं। मूल भाषा में दस्तावेज़ को आधिकारिक स्रोत माना जाना चाहिए। महत्वपूर्ण जानकारी के लिए, पेशेवर मानव अनुवाद की सिफारिश की जाती है। इस अनुवाद के उपयोग से उत्पन्न किसी भी गलतफहमी या गलत व्याख्या के लिए हम जिम्मेदार नहीं हैं।
-<!-- CO-OP TRANSLATOR DISCLAIMER END -->
+## Education ka Tareeqa (Pedagogy)
+
+Humne is course ko banate waqt do main principles chune hain: ye ensure karna ki ye **project-based** hai aur ismein **baar-baar quizzes** shamil hain.
+
+Ye ensure karke ki content projects ke saath milti hai, ye process students ke liye zyada interesting ho jata hai aur concepts ki samajh pakki hoti hai. Iske alawa, class se pehle ek chota quiz student ko topic seekhne ke liye taiyar karta hai, jabki class ke baad dusra quiz samajh ko pakka karta hai. Ye course flexible aur mazedar banaya gaya hai aur ise pura ya thoda-thoda karke liya ja sakta hai. Projects chote se shuru hote hain aur 12-hafte ke cycle ke khatam hone tak dheere-dheere complex hote jate hain.
+
+> **Quizzes ke bare mein ek note**: Saari quizzes [is app](https://red-field-0a6ddfd03.1.azurestaticapps.net/) mein shamil hain, jismein total 50 quizzes hain, har ek mein teen sawal. Wo lessons ke beech mein link kiye gaye hain lekin quiz app ko locally chalaya ja sakta hai; `etc/quiz-app` folder mein instructions ko follow karein.
+
+## Offline Access
+
+Aap is document ko offline [Docsify](https://docsify.js.org/#/) ka use karke chala sakte hain. Is repository ko fork karein, apne local machine par [Docsify install karein](https://docsify.js.org/#/quickstart), aur phir is repository ke root folder mein `docsify serve` type karein. Website aapke localhost par port 3000 par chalegi: `localhost:3000`. Course ka ek PDF [is link par available hai](../../../../../../../../../etc/pdf/readme.pdf).
+
+---
+
+**Disclaimer**: Ye document AI translation service [Co-op Translator](https://github.com/Azure/co-op-translator) ka use karke translate kiya gaya tha (lekin ab ise manually Hinglish mein update kiya gaya hai). Hum koshish karte hain ki ye sahi ho, lekin automated translations mein ghaltiyan ya kami ho sakti hain. Asli language mein document ko hi official source maanna chahiye. Zaroori information ke liye professional human translation ki salaah di jati hai. Is translation ke use se hone wali kisi bhi ghalat-fahmi ke liye hum zimmedar nahi hain.
