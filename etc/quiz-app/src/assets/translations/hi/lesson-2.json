@@ -1,0 +1,115 @@
+[
+  {
+    "title": "AI Beginners ke liye: Quizzes",
+    "complete": "Mubarak ho, aapne quiz poori kar li!",
+    "error": "Maaf kijiyega, phir se koshish karein",
+    "quizzes": [
+      {
+        "id": 102,
+        "title": "Knowledge Representation aur Expert Systems: Pre-Quiz",
+        "quiz": [
+          {
+            "questionText": "Intelligent systems banane ka top-down approach kis par based tha:",
+            "answerOptions": [
+              {
+                "answerText": "knowledge seeking aur reading",
+                "isCorrect": false
+              },
+              {
+                "answerText": "knowledge representation aur reasoning",
+                "isCorrect": true
+              },
+              {
+                "answerText": "knowledge reasoning aur seeking",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "Knowledge aur Information ek hi cheez hoti hain",
+            "answerOptions": [
+              {
+                "answerText": "Sahi (True)",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Galat (False)",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionText": "Knowledge kaise hasil ki jati hai:",
+            "answerOptions": [
+              {
+                "answerText": "active learning process",
+                "isCorrect": true
+              },
+              {
+                "answerText": "passive learning process",
+                "isCorrect": false
+              },
+              {
+                "answerText": "in dono tareeqon se",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "title": "Knowledge Representation aur Expert Systems: Post-Quiz",
+        "quiz": [
+          {
+            "questionText": "Knowledge representation ka sabse simple method hai:",
+            "answerOptions": [
+              {
+                "answerText": "algorithmic",
+                "isCorrect": true
+              },
+              {
+                "answerText": "symbolic",
+                "isCorrect": false
+              },
+              {
+                "answerText": "synergistic",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "Scenarios aisi complex situations ko dikha sakte hain jo waqt ke saath badalti hain",
+            "answerOptions": [
+              {
+                "answerText": "Sahi (True)",
+                "isCorrect": true
+              },
+              {
+                "answerText": "Galat (False)",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "Forward inference shuruati data se shuru hota hai aur phir:",
+            "answerOptions": [
+              {
+                "answerText": "reasoning loop chalata hai",
+                "isCorrect": true
+              },
+              {
+                "answerText": "goal dhundta hai",
+                "isCorrect": false
+              },
+              {
+                "answerText": "phir se shuru hota hai",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -10,8 +10,9 @@
         </li>
         <li>
           <select v-model="locale">
-            <option>en</option>
-            <option>es</option>
+            <option value="en">English</option>
+            <option value="es">Español</option>
+            <option value="hi">Hinglish</option>
           </select>
         </li>
         <li class="title">{{ questions[locale][0].title }}</li>

@@ -1,8 +1,8 @@
-# अवलोकन
+# Overview
 
-![डूडल में अवलोकन](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
+![Overview in a doodle](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
-> स्केच नोट: [टोमोमी इमुरा](https://twitter.com/girlie_mac) द्वारा
+> Sketch note: [Tomomi Imura](https://twitter.com/girlie_mac) dwara
 
-**अस्वीकरण**:  
-यह दस्तावेज़ AI अनुवाद सेवा [Co-op Translator](https://github.com/Azure/co-op-translator) का उपयोग करके अनुवादित किया गया है। जबकि हम सटीकता सुनिश्चित करने का प्रयास करते हैं, कृपया ध्यान दें कि स्वचालित अनुवाद में त्रुटियां या अशुद्धियां हो सकती हैं। मूल भाषा में उपलब्ध मूल दस्तावेज़ को प्रामाणिक स्रोत माना जाना चाहिए। महत्वपूर्ण जानकारी के लिए, पेशेवर मानव अनुवाद की सिफारिश की जाती है। इस अनुवाद के उपयोग से उत्पन्न किसी भी गलतफहमी या गलत व्याख्या के लिए हम जिम्मेदार नहीं हैं।
+**Disclaimer**:
+Ye document AI translation service [Co-op Translator](https://github.com/Azure/co-op-translator) ka use karke translate kiya gaya tha (lekin ab ise manually Hinglish mein update kiya gaya hai). Hum koshish karte hain ki ye sahi ho, lekin automated translations mein ghaltiyan ya kami ho sakti hain. Asli language mein document ko hi official source maanna chahiye. Zaroori information ke liye professional human translation ki salaah di jati hai. Is translation ke use se hone wali kisi bhi ghalat-fahmi ke liye hum zimmedar nahi hain.
